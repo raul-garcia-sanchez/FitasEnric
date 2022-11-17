@@ -1,0 +1,12 @@
+raulgarcia,Fanta
+Xavi,CocaCola,Fanta,Agua
+Pepillo,CocaCola,Fanta
+Ivan,CocaCola,Fanta,Agua
+Ivan,CocaCola,Fanta,Agua,
+aaaa,Fanta,
+PPPP,CocaCola,
+PPPP,CocaCola
+dddddd,CocaCola,Fanta,Agua
+dddddd,CocaCola,Fanta,Agua
+dddddd,CocaCola,Fanta,Agua
+dddddd,CocaCola,Fanta,Agua
